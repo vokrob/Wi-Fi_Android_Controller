@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wi-Fi_Android_Controller</string>
+    <string name="bSave">Save IP</string>
+    <string name="tvTemp">0°C</string>
+    <string name="bLed1">Led 1</string>
+    <string name="bLed2">Led 2</string>
+    <string name="bLed3">Led 3</string>
+    <string name="sync">Sync</string>
+</resources>
